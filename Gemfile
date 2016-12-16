@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "sintra", "~> 1.4"
+gem "sinatra", "~> 1.4"
 gem "sinatra-contrib", "~> 1.4"
 
 group :test do
